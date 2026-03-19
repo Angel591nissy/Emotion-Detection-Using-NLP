@@ -9,7 +9,7 @@ Emotion and sentiment detection from text is widely used in areas like social me
 The Dataset used for this project is ISEAR Dataset which contains real-life emotional experience in text format labeled with 7 emotions such as: Joy, Sadness, Anger, Fear, Disgust, Shame, Guilt.The dataset contains around 7517 rows.
 
 # Model Architecture
-![image alt]()
+![image alt](architecture.png)
 
 # Methodology
 Methodology used for this project involves the following steps:
