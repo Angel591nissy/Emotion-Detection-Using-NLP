@@ -3,7 +3,7 @@
 ![image alt](screenshot_project.png)
 
 # Introduction
-Emotion and sentiment detection from text is widely used in areas like social media analysis, healthcare, and customer feedback.Traditional lexical-based methods are simple but struggle with nuances such as sarcasm and implicit meaning.This model uses advanced NLP techniques, combining **BERT** for contextual understanding and **BiLSTM** for sequential learning.The model improves accuracy in classifying emotions from textual data while handling complex language patterns.
+Emotion and sentiment detection from text is widely used in areas like social media analysis, healthcare, and customer feedback.Traditional lexical-based methods are simple but struggle with nuances such as sarcasm and implicit meaning.This model uses advanced NLP techniques for contextual understanding and deep learning techniques for sequential learning.The model improves accuracy in classifying emotions from textual data while handling complex language patterns.
 
 # Dataset
 The Dataset used for this project is ISEAR Dataset which contains real-life emotional experience in text format labeled with 7 emotions such as: Joy, Sadness, Anger, Fear, Disgust, Shame, Guilt.The dataset contains around 7517 rows.
@@ -19,7 +19,8 @@ Methodology used for this project involves the following steps:
 4. Model Evaluation: The trained model is evaluated on the testing data to measure the accuracy,recall,F1-score and precision in detection emotions in the text. 
 
 # Results
-Accuracy: 97%
+Accuracy: 97%.
+
 The model effectively captures contextual and sequential patterns, improving emotion classification performance.
 
 
