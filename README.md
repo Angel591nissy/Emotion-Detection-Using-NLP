@@ -14,7 +14,7 @@ The Dataset used for this project is ISEAR Dataset which contains real-life emot
 # Methodology
 Methodology used for this project involves the following steps:
 1. Data Preprocessing: It involves cleaning the text like lowercasing,removing punctuation & stopwords, followed by tokenization.
-2. Feature Extraction: For Feature extraction, contextual embeddings are generated using BERT, enabling the model to capture the meaning of words based on their context.
+2. Feature Extraction: For Feature extraction, word embeddings are generated using BERT, enabling the model to capture the meaning of words based on their context.
 3. Model Training: A deep learning model is trained on the extracted features to predict the emotions expressed in a text. The model used for this project is BiLSTM.
 4. Model Evaluation: The trained model is evaluated on the testing data to measure the accuracy,recall,F1-score and precision in detection emotions in the text. 
 
